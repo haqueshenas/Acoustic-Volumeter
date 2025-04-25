@@ -1,0 +1,9 @@
+tkinterdnd2
+pillow
+numpy
+pandas
+scipy
+sounddevice
+soundfile
+scikit-learn
+matplotlib
