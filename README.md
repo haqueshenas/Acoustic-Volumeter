@@ -65,6 +65,7 @@ Please take special care not to exceed the standard input/output ranges of your 
 
 If you use this tool, please cite:  
 Haghshenas A. & Emam Y. (2025). *Reimagined Microphone-Free Acoustic Volumetry: An Open, DIY Platform for Global Phenotyping.* bioRxiv.
+Haghshenas, A. (2025). haqueshenas/Acoustic-Volumeter: Acoustic Volumeter v1.0.0 (v1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.15280747](https://doi.org/10.5281/zenodo.15280747)
 
 ---
 
