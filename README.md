@@ -53,6 +53,14 @@ python wave_viewer.py      # WAV browser
 
 ---
 
+## Disclaimer
+
+Use Acoustic Volumeter at your own risk. The developers make no warranty of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, or non infringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability arising from the use of this software.
+Warning:
+Please take special care not to exceed the standard input/output ranges of your sound card, amplifier, or custom circuitry. High playback amplitudes, improper amplifier settings, or mis‐wiring can damage your hardware or computer. Always start with low levels (e.g. 0.005–0.01) and verify each component under the Single Tone Sampler or Acoustic Profiling tool before running full sweeps.
+
+---
+
 ## Citation
 
 If you use this tool, please cite:  
