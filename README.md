@@ -64,7 +64,9 @@ Please take special care not to exceed the standard input/output ranges of your 
 ## Citation
 
 If you use this tool, please cite:  
-Haghshenas A. & Emam Y. (2025). *Reimagined Microphone-Free Acoustic Volumetry: An Open, DIY Platform for Global Phenotyping.* bioRxiv.
+
+Haghshenas, A., & Emam, Y. (2025). Reimagined Microphone-Free Acoustic Volumetry: An Open, DIY Platform for Global Phenotyping. bioRxiv, 2025.2004.2025.650573. https://doi.org/10.1101/2025.04.25.650573
+
 Haghshenas, A. (2025). haqueshenas/Acoustic-Volumeter: Acoustic Volumeter v1.0.0 (v1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.15280747](https://doi.org/10.5281/zenodo.15280747)
 
 ---
