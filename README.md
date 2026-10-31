@@ -10,7 +10,7 @@ Release v1.0.0 · Free and open-source research software
 
 [![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15280747.svg)](https://doi.org/10.5281/zenodo.15280747) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[Download Windows application (v1.0.0)](https://github.com/haqueshenas/Acoustic-Volumeter/releases/tag/v1.0.0) · [PDF user guide](README.pdf) · [Published article](https://doi.org/10.1016/j.atech.2025.101430) · [Source code](https://github.com/haqueshenas/Acoustic-Volumeter/tree/v1.0.0) · [Easy Phenotyping Lab (EPL)](https://haqueshenas.github.io/EPL/)
+[Download Windows application (v1.0.0)](https://github.com/haqueshenas/Acoustic-Volumeter/releases/tag/v1.0.0) · [PDF user guide](https://github.com/haqueshenas/Acoustic-Volumeter/releases/download/v1.0.0/README.pdf) · [Published article](https://doi.org/10.1016/j.atech.2025.101430) · [Source code](https://github.com/haqueshenas/Acoustic-Volumeter/tree/v1.0.0) · [Easy Phenotyping Lab (EPL)](https://haqueshenas.github.io/EPL/)
 
 </div>
 
@@ -26,7 +26,7 @@ The software integrates acoustic profiling, resonance analysis, calibration, vol
 
 In the published ten-grain wheat assay, the method achieved an average error of less than 0.2 µL per grain under the reported experimental conditions. This result should not be interpreted as a universal accuracy guarantee; performance depends on the sensor, calibration, measurement settings, and experimental conditions.
 
-For the scientific background, hardware design, experimental validation, and detailed software instructions, see the [peer-reviewed article](https://doi.org/10.1016/j.atech.2025.101430) and the accompanying [PDF user guide](README.pdf).
+For the scientific background, hardware design, experimental validation, and detailed software instructions, see the [peer-reviewed article](https://doi.org/10.1016/j.atech.2025.101430) and the accompanying [PDF user guide](https://github.com/haqueshenas/Acoustic-Volumeter/releases/download/v1.0.0/README.pdf).
 
 ## How the platform works
 
@@ -51,7 +51,7 @@ The easiest way to use Acoustic Volumeter is the pre-built Windows x64 applicati
 5. Start with Acoustic Profiling to examine the sensor response and prepare the calibration data.
 6. Complete the calibration workflow before measuring unknown samples.
 
-For detailed instructions, parameter descriptions, examples, and practical considerations, consult the [PDF user guide](README.pdf).
+For detailed instructions, parameter descriptions, examples, and practical considerations, consult the [PDF user guide](https://github.com/haqueshenas/Acoustic-Volumeter/releases/download/v1.0.0/README.pdf).
 
 ## Tools at a glance
 
